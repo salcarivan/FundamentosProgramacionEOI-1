@@ -247,3 +247,6 @@ c:><caperta del proyecto>git status
 
 > Vuelta al No. 4.1
 >
+
+
+![00](img/00.png)
