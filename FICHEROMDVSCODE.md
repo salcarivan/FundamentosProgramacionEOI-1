@@ -1,4 +1,4 @@
-Objetivos de la mañana de hoy
+#Objetivos de la mañana de hoy
 1 - Instalar un editor de markdown (CONSEGUIDO)
 GUIA BREVE MARKDOWN
 
