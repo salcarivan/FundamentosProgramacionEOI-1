@@ -3,7 +3,7 @@
 
 **Historia**
 
-COBOL es un lenguaje diseñado en 1959 por CODASYL como parte del esfuerzo del Departamenteo Americano de Defensa en crear un lenguaje de programación para el procesamiento de datos.  
+COBOL es un lenguaje diseñado en 1959 por CODASYL como parte del esfuerzo del Departamenteo Americano de Defensa en crear un lenguaje de programación para el procesamiento de datos que fuera portable y se pudiera adaptar a todo tipo de mercados. A pesar de ser un lenguaje de programación bastante antiguo, sigue siendo utilizado hoy día como parte del entorno de la banca.  
 <br>
 
 **Tipo de Lenguaje y Palabras Reservadas**
