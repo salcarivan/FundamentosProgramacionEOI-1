@@ -16,6 +16,8 @@ COBOL es un lenguaje compilado, lo que significa que cuando se tiene que ejecuta
 **Palabras clave**
 
 COBOL cuenta con una gran cantidad de palabras reservadas, como podrían ser:
+<br>
+<br>
 
 ![AB](img/AB.png)
 ![CD](img/CD.png)
@@ -24,6 +26,9 @@ COBOL cuenta con una gran cantidad de palabras reservadas, como podrían ser:
 ![OPQR](img/OPQR.png)
 ![STUV](img/STUV.png)
 ![WZ](img/WZ.png)
+
+Como se puede ver, es una lista de palabras reservadas bastante grande.
+
 
 <br>
 
