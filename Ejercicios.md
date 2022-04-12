@@ -17,16 +17,32 @@
 ## Números primos.
 
 ```
-
-
-```
+Inicio programa
+n = 0
+Mientras n <=100
+    si n > 1
+        si (n mod 2) = 0 
+            escribir n + " no es primo."
+        sino
+            si (n mod n) = 0
+                escribir n + " es primo."
+            finsi
+        finsi
+    sino
+        si n > 0
+            escribir "1 es primo."
+        finsi
+    finsi
+    n = n + 1
+Fin Mientras
+Fin Programa
+```     
 
 <br>
 
 ## Construir un avión de papel.
 
 ```
-
 
 ```
 
@@ -36,7 +52,6 @@
 
 ```
 
-
 ```
 
 <br>
@@ -44,7 +59,6 @@
 ## Volumen y Área de un Cilindro.
 
 ```
-
 
 ```
 
@@ -54,7 +68,6 @@
 
 ```
 
-
 ```
 
 <br>
@@ -62,7 +75,6 @@
 ## Encontrar el mayor número de tres números.
 
 ```
-
 
 ```
 
@@ -72,7 +84,6 @@
 
 ```
 
-
 ```
 
 <br>
@@ -81,7 +92,6 @@
 
 ```
 
-
 ```
 
 <br>
@@ -89,6 +99,5 @@
 ## Adivinar una palabra.
 
 ```
-
 
 ```
