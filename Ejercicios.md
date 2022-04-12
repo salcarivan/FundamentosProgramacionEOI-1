@@ -5,7 +5,7 @@
 ## Calcular y mostrar el cuadrado de los números del 1 a 30.
 
 ```
-1. Inicio
+1. Inicio programa
 2. Para n=1, n es menor o igual a 30, n suma 1.
 3.      Escribir "El cuadrado de " + n + " es igual a " + (n*n)
 4. Fin Para
