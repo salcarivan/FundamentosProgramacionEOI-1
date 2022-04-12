@@ -5,11 +5,11 @@
 ## Calcular y mostrar el cuadrado de los números del 1 a 30.
 
 ```
-1. Inicio programa
+1. Inicio cuadrado130
 2. Para n=1, n es menor o igual a 30, n suma 1.
 3.      Escribir "El cuadrado de " + n + " es igual a " + (n*n)
 4. Fin Para
-5. Fin programa
+5. Fin cuadrado130
 ```
 
 <br>
@@ -17,7 +17,7 @@
 ## Números primos.
 
 ```
-Inicio programa
+Inicio numerosPrimos
 n = 0
 Mientras n <=100
     si n > 1
@@ -35,7 +35,7 @@ Mientras n <=100
     finsi
     n = n + 1
 Fin Mientras
-Fin Programa
+Fin numerosPrimos
 ```     
 
 <br>
@@ -51,7 +51,43 @@ Fin Programa
 ## Realizar las cuatro operaciones básicas (Suma, Resta, Multiplicación, División)
 
 ```
-
+Inicio calculadora
+num = 0
+res = 0
+sum1 = 0
+sum2 = 0
+Escribir "Elegir: 1. Sumar, 2. Restar, 3. Multiplicar o 4. Dividir"
+leer num = (input de usuario)
+switch (num)
+    caso (num = 1)
+        Escribir "Inserte los dos números a sumar"
+        leer sum1, sum2
+        res = sum1 + sum2
+        Escribir "Resultado: " + res
+    break;
+    caso (num = 2)
+        Escribir "Inserte primer número de la resta:"
+        leer sum1
+        Escribir "Inserte segundo número de la resta:"
+        leer sum2
+        res = sum1-sum2
+        Escribir "Resultado: " + res
+    break;
+    caso(num=3)
+        Escribir "Inserte los números de la multiplicación:"
+        leer sum1, sum2
+        res = sum1 * sum2
+        Escribir "Resultado " + res
+    break;
+    caso(num=4)
+        Escribir "Inserte el primer número de la división:"
+        leer sum1
+        Escribir "Inserte el segundo número de la división:"
+        leer sum2
+        res = sum1/sum2
+        Escribir "Resultado: " + res
+    break;
+Fin calculadora
 ```
 
 <br>
@@ -59,7 +95,9 @@ Fin Programa
 ## Volumen y Área de un Cilindro.
 
 ```
+Inicio volArea
 
+Fin volArea
 ```
 
 <br>
