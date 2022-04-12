@@ -58,35 +58,39 @@ sum1 = 0
 sum2 = 0
 Escribir "Elegir: 1. Sumar, 2. Restar, 3. Multiplicar o 4. Dividir"
 leer num = (input de usuario)
-switch (num)
-    caso (num = 1)
-        Escribir "Inserte los dos números a sumar"
-        leer sum1, sum2
-        res = sum1 + sum2
-        Escribir "Resultado: " + res
-    break;
-    caso (num = 2)
-        Escribir "Inserte primer número de la resta:"
-        leer sum1
-        Escribir "Inserte segundo número de la resta:"
-        leer sum2
-        res = sum1-sum2
-        Escribir "Resultado: " + res
-    break;
-    caso(num=3)
-        Escribir "Inserte los números de la multiplicación:"
-        leer sum1, sum2
-        res = sum1 * sum2
-        Escribir "Resultado " + res
-    break;
-    caso(num=4)
-        Escribir "Inserte el primer número de la división:"
-        leer sum1
-        Escribir "Inserte el segundo número de la división:"
-        leer sum2
-        res = sum1/sum2
-        Escribir "Resultado: " + res
-    break;
+si num = 1 o num = 2 o num = 3 o num = 4
+    switch (num)
+        caso (num = 1)
+            Escribir "Inserte los dos números a sumar"
+            leer sum1, sum2
+            res = sum1 + sum2
+            Escribir "Resultado: " + res
+        break;
+        caso (num = 2)
+            Escribir "Inserte primer número de la resta:"
+            leer sum1
+            Escribir "Inserte segundo número de la resta:"
+            leer sum2
+            res = sum1-sum2
+            Escribir "Resultado: " + res
+        break;
+        caso(num=3)
+            Escribir "Inserte los números de la multiplicación:"
+            leer sum1, sum2
+            res = sum1 * sum2
+            Escribir "Resultado " + res
+        break;
+        caso(num=4)
+            Escribir "Inserte el primer número de la división:"
+            leer sum1
+            Escribir "Inserte el segundo número de la división:"
+            leer sum2
+            res = sum1/sum2
+            Escribir "Resultado: " + res
+        break;
+    Fin switch
+sino
+    Escribir "Por favor escriba un número entre 1 y 4."
 Fin calculadora
 ```
 
