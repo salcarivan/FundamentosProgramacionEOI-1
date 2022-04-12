@@ -35,7 +35,7 @@ En España, el sueldo de un programador de COBOL es de 23,847€ anuales.
 
 **Comunidad**
 
-La representación de la comunidad de COBOL está presente en el entorno de trabajo, por lo que no cuenta con una comunidad muy grande en la red.
+La representación de la comunidad de COBOL está presente en el entorno de trabajo, por lo que no cuenta con una comunidad muy grande en la red. Hay mas de **un millón* de programadores de COBOL en el mundo.
 
 <br>
 
